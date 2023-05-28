@@ -3,7 +3,7 @@ Went on codewars and created a function that will sort a list of strings alphabe
 
 The returned value must be a string, and have "***" between each of its letters.
 
-**Link to work:** [Sort and Star]()
+**Link to work:** [Sort and Star](https://github.com/SonsOfMagnetism/daily-code-practice/blob/main/JavaScript/sortAndStar.js)
 
 ## 05-27-2023
 Went on codewars and created a function that does four basic mathematical operations on JavaScript.
