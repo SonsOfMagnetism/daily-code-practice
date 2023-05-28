@@ -1,3 +1,10 @@
+## 05-28-2023
+Went on codewars and created a function that will sort a list of strings alphabetically (case-sensitive, and based on the ASCII values of the chars) and then return the first value.
+
+The returned value must be a string, and have "***" between each of its letters.
+
+**Link to work:** [Sort and Star]()
+
 ## 05-27-2023
 Went on codewars and created a function that does four basic mathematical operations on JavaScript.
 
