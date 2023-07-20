@@ -1,3 +1,8 @@
+## 07-20-2023
+Went on codewars and created a function that will return a greeting statement that uses an input.
+
+**Link to work:** [Returning Strings](https://github.com/SonsOfMagnetism/daily-code-practice/blob/main/JavaScript/returningStrings.js)
+
 ## 05-28-2023
 Went on codewars and created a function that will sort a list of strings alphabetically (case-sensitive, and based on the ASCII values of the chars) and then return the first value.
 
