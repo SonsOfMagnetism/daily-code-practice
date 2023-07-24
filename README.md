@@ -1,3 +1,8 @@
+## 07-24-2023
+Went on codewars and wrote a function that takes an argument and returns the square of it.
+
+**Link to work:** [Squaring an Argument](https://github.com/SonsOfMagnetism/daily-code-practice/blob/main/JavaScript/squaringAnArgument.js)
+
 ## 07-20-2023
 Went on codewars and created a function that will return a greeting statement that uses an input.
 
