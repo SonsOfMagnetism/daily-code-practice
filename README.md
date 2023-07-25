@@ -1,3 +1,9 @@
+## 07-25-2023
+Went on codewars and wrote a function that always returns **5**, without using any of the following characters:
+>0123456789*+-/
+
+**Link to work:** [Unusual Five](https://github.com/SonsOfMagnetism/daily-code-practice/blob/main/JavaScript/unusualFive.js)
+
 ## 07-24-2023
 Went on codewars and wrote a function that takes an argument and returns the square of it.
 
