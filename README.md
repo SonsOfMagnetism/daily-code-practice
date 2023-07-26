@@ -1,3 +1,10 @@
+# Daily Coding Practice
+
+## 07-26-2023
+Went on codewars and created a function that takes 2 integers in form of a string as an input, and outputs the sum (also as a string). If either input is an empty string, consider it as zero.
+
+**Link to work:** [Sum The Strings](https://github.com/SonsOfMagnetism/daily-code-practice/blob/main/JavaScript/sumTheStrings.js)
+
 ## 07-25-2023
 Went on codewars and wrote a function that always returns **5**, without using any of the following characters:
 >0123456789*+-/
