@@ -1,4 +1,10 @@
-# Daily Coding Practice
+# Daily Coding 
+
+## 07-28-2023
+
+Went on codewars and wrote a function that calculates body mass index(bmi=weight/height).
+
+**Link to work:** [Calculate BMI](https://github.com/SonsOfMagnetism/daily-code-practice/blob/main/JavaScript/calculateBMI.js)
 
 ## 07-26-2023
 Went on codewars and created a function that takes 2 integers in form of a string as an input, and outputs the sum (also as a string). If either input is an empty string, consider it as zero.
