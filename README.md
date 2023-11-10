@@ -1,9 +1,9 @@
 # Daily Coding 
 
-## 08-31-2023
-Went on codewars and created a function for a terminal game that takes the current position of the hero and the roll (1-6) and returns a new position. In this game, the hero moves from left to right. The player rolls the dice and moves the number of spaces indicated by the dice two times.
+## 11-10-2023
+Went on codewars and created a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
 
-**Link to work:** [Grasshopper]()
+**Link to work:** [Even and Odd]()
 
 ## 07-28-2023
 Went on codewars and wrote a function that calculates body mass index(bmi=weight/height).
