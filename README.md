@@ -3,7 +3,7 @@
 ## 11-10-2023
 Went on codewars and created a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
 
-**Link to work:** [Even and Odd]()
+**Link to work:** [Even and Odd](https://github.com/SonsOfMagnetism/daily-code-practice/blob/main/JavaScript/evenAndOdd.js)
 
 ## 07-28-2023
 Went on codewars and wrote a function that calculates body mass index(bmi=weight/height).
